@@ -1,0 +1,13 @@
+{
+  "name": "framework-asr6601",
+  "version": "1.0.0",
+  "description": "ASR6601 Tremolink Framework",
+  "keywords": ["framework", "asr6601", "tremolink", "lora"],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djpallax/framework-asr6601.git"
+  },
+  "frameworks": ["tremo"],
+  "platforms": ["asr6601"]
+}
